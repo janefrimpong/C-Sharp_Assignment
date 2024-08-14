@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\pages\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\pages\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\pages\\intergration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\pages\\intergration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\wwwroot\\product.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:wwwroot\\product.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|c:\\users\\try\\desktop\\32datasheet\\dashboard\\assignment1\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06DCDDD-DB94-400F-8CFE-E6CC0B5FF81B}|Assignment1.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Orders.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Orders.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Orders.razor",
+              "RelativeToolTip": "Components\\Pages\\Orders.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T22:47:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.css",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\wwwroot\\product.css",
+              "RelativeDocumentMoniker": "wwwroot\\product.css",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\wwwroot\\product.css",
+              "RelativeToolTip": "wwwroot\\product.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T17:20:35.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Product.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Product.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Product.razor",
+              "RelativeToolTip": "Components\\Pages\\Product.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T17:07:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:57:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intergration.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Intergration.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Intergration.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Intergration.razor",
+              "RelativeToolTip": "Components\\Pages\\Intergration.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:45:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:15:00.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:22:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Navbar.razor",
+              "DocumentMoniker": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Layout\\Navbar.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\Navbar.razor",
+              "ToolTip": "C:\\Users\\TRY\\Desktop\\32DATASHEET\\DashBoard\\Assignment1\\Components\\Layout\\Navbar.razor",
+              "RelativeToolTip": "Components\\Layout\\Navbar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:22:26.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
